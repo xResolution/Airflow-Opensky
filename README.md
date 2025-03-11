@@ -41,3 +41,8 @@ The primary purpose of this repository is to demonstrate:
 
 This is a showcase project intended solely to illustrate my data engineering and workflow orchestration skills.
 
+## DAG Workflow Visualization
+
+Below is a visualization of the Airflow DAG execution flow:
+
+![DAG Workflow](images/dag_graph.png)
